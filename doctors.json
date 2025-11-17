@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1751263369855,
+    "name": "varun panchakarla",
+    "specialization": "cardiologist",
+    "license": "354897451",
+    "experience": "6",
+    "hospital": "varun",
+    "email": "varunp@gmail.com",
+    "phone": "635987456",
+    "address": "69854687aajdtdtw",
+    "password": "$2b$10$twM5AGTu9bgbSwvY1kahKOrtWKjeJ40PWymWkw1Q6VmtUzFvGdDoC",
+    "role": "doctor"
+  },
+  {
+    "id": 1752472094678,
+    "name": "divya  v",
+    "specialization": "dermatologist",
+    "license": "1234",
+    "experience": "3",
+    "hospital": "dev",
+    "email": "228x1a4545@khitguntur.ac.in",
+    "phone": "1234567898",
+    "address": "gabkhsgu",
+    "password": "$2b$10$5ftcIMU82o310VCIWFfOFu/j9CWxFcfziJ9hdJvhxbAF9tJ8tNJre",
+    "role": "doctor"
+  },
+  {
+    "id": 1752474330675,
+    "name": "divya  v",
+    "specialization": "cardiologist",
+    "license": "1345",
+    "experience": "4",
+    "hospital": "sanjay",
+    "email": "divya@gamil.com21",
+    "phone": "8765432901",
+    "address": "guntur",
+    "password": "$2b$10$eoidSxa7AGmH3n9qOseYLOkKZya2OWwsaGuqYXEBvZ49WzM1qJ3by",
+    "role": "doctor"
+  },
+  {
+    "id": 1752474874444,
+    "name": "devika y",
+    "specialization": "neurologist",
+    "license": "4563",
+    "experience": "3",
+    "hospital": "devika clinic",
+    "email": "devika11@gmail.com",
+    "phone": "7863529081",
+    "address": "guntur",
+    "password": "$2b$10$NL2ZGHeP7KND3GLtNIC.6.QL3OtoueXcTxSXo2rr/OCZLWUdGBwTK",
+    "role": "doctor"
+  }
+]
